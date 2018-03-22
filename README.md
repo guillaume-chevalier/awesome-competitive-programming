@@ -388,6 +388,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
 | Community-curated C++ Resources | [Hackr.io](https://hackr.io/tutorials/learn-c-plus-plus) |
+| Deep Learning Resources | [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 
 ### Interview Questions
 | Name | Description |
